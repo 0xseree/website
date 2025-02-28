@@ -33,14 +33,43 @@ const FAQItem = ({ question, answer }: { question: any; answer: any }) => {
 const FAQs = () => {
   const faqs = [
     {
-      question: "Lorem Ipsum is simply dummy text of the printing.",
+      question: "What is a Blockchain?",
       answer:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "A blockchain is a decentralized, distributed ledger technology that records transactions across a network of computers. It ensures data integrity and security through cryptography and consensus mechanisms.",
+    },
+    {
+      question: "What is SWIFT?",
+      answer:
+        "SWIFT (Society for Worldwide Interbank Financial Telecommunications) is a global messaging network used by financial institutions to securely exchange financial messages, primarily for international transactions. It does not transfer funds but facilitates communication between banks.",
+    },
+    {
+      question: "What is Ethereum?",
+      answer:
+        "Ethereum is a decentralized, open-source blockchain platform that supports smart contracts and decentralized applications (dApps). It uses Ether (ETH) as its native cryptocurrency and is known for its programmability and versatility.",
+    },
+    {
+      question: "What is ISO 20022?",
+      answer:
+        "ISO 20022 is a global standard for exchanging electronic data between financial institutions, enabling efficient and standardized communication for financial transactions. It supports rich data formats, enhancing compliance and operational efficiency.",
+    },
+    {
+      question: "What is Proof of Stake (PoS)?",
+      answer:
+        "Proof of Stake is a consensus algorithm used by some blockchain networks where validators are chosen to create new blocks based on the amount of cryptocurrency they hold (stake) rather than computational power. This method is more energy-efficient than Proof of Work.",
+    },
+    {
+      question: "What is a Validator?",
+      answer:
+        "A validator is a node on a blockchain network that verifies transactions and creates new blocks. In Proof of Stake systems, validators are chosen based on their stake, while in other systems, they may be chosen based on different criteria. Seree runs Ethereum PoS validators in Ethiopia.",
+    },
+    {
+      question: "What is Restaking?",
+      answer:
+        "Restaking refers to the process of using staked assets on a Proof of Stake network to run applications other than the consensus mechanism being run. This enables validators to earn additional fees on top of running blockchains such as Ethereum. Seree participates in restaking by running additional services such as machine learning training and zero knowledge processing.",
     },
   ];
-
   return (
-    <div className="max-w-2xl mx-auto bg-white shadow-lg rounded-lg p-6">
+    <div className="max-w-2xl mx-auto bg-white  rounded-lg p-6">
       {faqs.map((faq, index) => (
         <FAQItem key={index} question={faq.question} answer={faq.answer} />
       ))}
