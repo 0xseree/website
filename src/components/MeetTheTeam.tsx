@@ -9,7 +9,7 @@ export const MeetTheTeam = () => {
           </p>
         </div>
 
-        <div className="mt-10 w-full flex items-center justify-between">
+        <div className="mt-10 w-full flex gap-5 items-center justify-center">
           <div className="w-[200px] h-[350px] rounded-xl">
             <div className="w-full h-[200px] rounded-xl">
               <img

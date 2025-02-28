@@ -1,3 +1,4 @@
+import { BeforeFooter } from "../components/BeforeFooter";
 import { FAQSection } from "../components/FAQSection";
 import { Header } from "../components/Header";
 import { Hero } from "../components/Hero";
@@ -12,6 +13,7 @@ export const Landing = () => {
       <WhyEthereun />
       <MeetTheTeam />
       <FAQSection />
+      <BeforeFooter />  
 
     </section>
   )
