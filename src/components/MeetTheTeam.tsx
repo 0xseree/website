@@ -13,26 +13,7 @@ export const MeetTheTeam = () => {
           <div className="w-[200px] h-[350px] rounded-xl">
             <div className="w-full h-[200px] rounded-xl">
               <img
-                src="/kokeb-solomon.jpg"
-                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
-                alt=""
-              />
-            </div>
-            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
-              <h3 className="text-white text-xl font-medium">Kokeb Solomon</h3>
-
-              <p className="mt-3 text-white">
-                CEO,
-                <br />
-                Business Development
-              </p>
-            </div>
-          </div>
-
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
-              <img
-                src="/lance-davies.jpg"
+                src="/2025-02-28 15.00.36.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
                 alt=""
               />
@@ -41,12 +22,13 @@ export const MeetTheTeam = () => {
               <h3 className="text-white text-xl font-medium">Lance Davies</h3>
 
               <p className="mt-3 text-white">
-                CTO,
+                CEO,
                 <br />
-                Smart Contracts
+                Co-Founder
               </p>
             </div>
           </div>
+
 
           <div className="w-[200px] h-[350px] rounded-xl">
             <div className="w-full h-[200px] rounded-xl">
@@ -60,9 +42,26 @@ export const MeetTheTeam = () => {
               <h3 className="text-white text-xl font-medium">AI Bunny</h3>
 
               <p className="mt-3 text-white">
-                Lead Engineer,
+                CTO,
                 <br />
-                Node Operations
+                Co-Founder
+              </p>
+            </div>
+          </div>
+
+          <div className="w-[200px] h-[350px] rounded-xl">
+            <div className="w-full h-[200px] rounded-xl">
+              <img
+                src="/collinsadi.jpg"
+                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
+                alt=""
+              />
+            </div>
+            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
+              <h3 className="text-white text-xl font-medium">Collins Adi</h3>
+
+              <p className="mt-3 text-white">
+                Founding Engineer
               </p>
             </div>
           </div>
@@ -79,9 +78,9 @@ export const MeetTheTeam = () => {
               <h3 className="text-white text-xl font-medium">Zachary Coley</h3>
 
               <p className="mt-3 text-white">
-                Finance,
+                CFO,
                 <br />
-                Treasury Management
+                Finance
               </p>
             </div>
           </div>
@@ -89,18 +88,16 @@ export const MeetTheTeam = () => {
           <div className="w-[200px] h-[350px] rounded-xl">
             <div className="w-full h-[200px] rounded-xl">
               <img
-                src="/kakai.png"
+                src="/sammy.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
                 alt=""
               />
             </div>
             <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
-              <h3 className="text-white text-xl font-medium">S. Allan Kakai</h3>
+              <h3 className="text-white text-xl font-medium">Samuel Gebrehiwet</h3>
 
               <p className="mt-3 text-white">
-                Legal,
-                <br />
-                Compliance
+                Chief Operations Officer
               </p>
             </div>
           </div>
