@@ -1,6 +1,6 @@
 import { BeforeFooter } from "../components/BeforeFooter";
 import { FAQSection } from "../components/FAQSection";
-import { Foter } from "../components/Foter";
+import { Footer } from "../components/Footer";
 import { Header } from "../components/Header";
 import { Hero } from "../components/Hero";
 import { MeetTheTeam } from "../components/MeetTheTeam";
@@ -15,7 +15,7 @@ export const Landing = () => {
       <MeetTheTeam />
       <FAQSection />
       <BeforeFooter />
-      <Foter />
+      <Footer />
 
     </section>
   )

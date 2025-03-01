@@ -5,13 +5,12 @@ export const Hero = () => {
     <section className="w-full p-5 flex items-center justify-center">
       <div className="md:w-[90%] w-full mt-20">
         <h3 className="text-center text-5xl font-medium text-[#182230]">
-          Improving access to international liquidity <br className="hidden md:block" /> with blockchain
+          We bridge international liquidity <br className="hidden md:block" /> with blockchain
         </h3>
 
         <p className="text-center mt-10 text-[#667085] font-light text-md">
           Upgrade to ISO20022 and enjoy instant liquidity in foreign currency.{" "}
           <br className="hidden md:block" />
-          Initial focus on the Ethiopian financial sector.
         </p>
 
         <div className="w-full mt-10 flex items-center justify-center">
