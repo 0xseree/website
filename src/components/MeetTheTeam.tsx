@@ -102,6 +102,87 @@ export const MeetTheTeam = () => {
             </div>
           </div>
         </div>
+
+        <div className="mt-10 w-full flex gap-5 items-center justify-center">
+          <div className="w-[200px] h-[350px] rounded-xl">
+            <div className="w-full h-[200px] rounded-xl">
+              <img
+                src="/advisor_1.jpg"
+                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
+                alt=""
+              />
+            </div>
+            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
+              <h3 className="text-white text-xl font-medium">Paul Reynolds</h3>
+
+              <p className="mt-3 text-white">
+                Senior Advisor,
+                <br />
+                Strategy and Governance
+              </p>
+            </div>
+          </div>
+
+
+          <div className="w-[200px] h-[350px] rounded-xl">
+            <div className="w-full h-[200px] rounded-xl">
+              <img
+                src="/advisor_2.jpg"
+                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
+                alt=""
+              />
+            </div>
+            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
+              <h3 className="text-white text-xl font-medium">Ross Emory</h3>
+
+              <p className="mt-3 text-white">
+                Principal Advisor,
+                <br />
+                Finance and Management
+              </p>
+            </div>
+          </div>
+
+          <div className="w-[200px] h-[350px] rounded-xl">
+            <div className="w-full h-[200px] rounded-xl">
+              <img
+                src="/advisor_3.jpg"
+                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
+                alt=""
+              />
+            </div>
+            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
+              <h3 className="text-white text-xl font-medium">Kal Kassa</h3>
+
+              <p className="mt-3 text-white">
+                Principal Advisor,
+                <br />
+                Bitcoin Mining
+              </p>
+            </div>
+          </div>
+
+          <div className="w-[200px] h-[350px] rounded-xl">
+            <div className="w-full h-[200px] rounded-xl">
+              <img
+                src="/advisor_4.jpg"
+                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
+                alt=""
+              />
+            </div>
+            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
+              <h3 className="text-white text-xl font-medium">Thomas Alemayehu</h3>
+
+              <p className="mt-3 text-white">
+                Principal Advisor,
+                <br />
+                Finance Markets
+              </p>
+            </div>
+          </div>
+
+         
+        </div>
       </div>
     </section>
   );
