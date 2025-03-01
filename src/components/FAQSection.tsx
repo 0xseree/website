@@ -12,7 +12,7 @@ export const FAQSection = () => {
         </p>
       </div>
 
-      <div className="w-[90%] mt-10">
+      <div className="md:w-[90%] w-full mt-10">
         <FAQs />
       </div>
     </section>

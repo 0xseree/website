@@ -69,7 +69,7 @@ const FAQs = () => {
     },
   ];
   return (
-    <div className="max-w-2xl mx-auto bg-white  rounded-lg p-6">
+    <div className="max-w-full md:max-w-2xl mx-auto bg-white  rounded-lg p-6">
       {faqs.map((faq, index) => (
         <FAQItem key={index} question={faq.question} answer={faq.answer} />
       ))}

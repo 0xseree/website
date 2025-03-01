@@ -1,7 +1,7 @@
 export const MeetTheTeam = () => {
   return (
     <section id="team" className="w-full mt-20 p-5 flex items-center justify-center">
-      <div className="w-[90%] p-4 bg-[#F2F4F7] rounded-xl">
+      <div className="md:w-[90%] w-full p-4 bg-[#F2F4F7] rounded-xl">
         <div className="text-center">
           <h3 className="text-[#182230] text-3xl font-medium">Meet the Team</h3>
           <p className="text-md text-[#667085] mt-5">
@@ -9,9 +9,9 @@ export const MeetTheTeam = () => {
           </p>
         </div>
 
-        <div className="mt-10 w-full flex gap-5 items-center justify-center">
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+        <div className="mt-10 w-full flex gap-5 items-center justify-center flex-col md:flex-row">
+          <div className="md:w-[200px] w-full   md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/2025-02-28 15.00.36.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
@@ -30,8 +30,8 @@ export const MeetTheTeam = () => {
           </div>
 
 
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/ai-bunny.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
@@ -49,8 +49,8 @@ export const MeetTheTeam = () => {
             </div>
           </div>
 
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/collinsadi.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
@@ -66,8 +66,8 @@ export const MeetTheTeam = () => {
             </div>
           </div>
 
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/zachary-coley.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
@@ -85,8 +85,8 @@ export const MeetTheTeam = () => {
             </div>
           </div>
 
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/sammy.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
@@ -103,9 +103,9 @@ export const MeetTheTeam = () => {
           </div>
         </div>
 
-        <div className="mt-10 w-full flex gap-5 items-center justify-center">
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+        <div className="mt-10 w-full flex gap-5 items-center justify-center flex-col md:flex-row">
+          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/advisor_1.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
@@ -124,8 +124,8 @@ export const MeetTheTeam = () => {
           </div>
 
 
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/advisor_2.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
@@ -143,8 +143,8 @@ export const MeetTheTeam = () => {
             </div>
           </div>
 
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/advisor_3.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"
@@ -162,8 +162,8 @@ export const MeetTheTeam = () => {
             </div>
           </div>
 
-          <div className="w-[200px] h-[350px] rounded-xl">
-            <div className="w-full h-[200px] rounded-xl">
+          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
               <img
                 src="/advisor_4.jpg"
                 className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl"

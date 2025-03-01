@@ -6,8 +6,8 @@ export const WhyEthereun = () => {
       id="why-ethereum"
       className="w-full p-5 flex flex-col items-center justify-center mt-20"
     >
-      <div className="w-[90%] flex items-center justify-between">
-        <div className="w-[50%]">
+      <div className="w-[90%] flex items-center justify-between flex-col md:flex-row">
+        <div className="md:w-[50%] w-full">
           <h3 className="text-2xl font-medium text-[#182230]">
             We give banks immediate access to foreign currency <br /> by using
             stablecoins
@@ -22,12 +22,12 @@ export const WhyEthereun = () => {
           </p>
         </div>
 
-        <div>
+        <div className="md:w-[50%] w-full md:mt-0 mt-5">
           <Button />
         </div>
       </div>
 
-      <div className="w-[90%] flex items-center justify-between mt-5">
+      <div className="w-[90%] flex items-center justify-between mt-5 flex-col md:flex-row gap-5">
         <div className="w-[400px] h-[530px] rounded-xl">
           <div className="w-full h-[300px] rounded-xl">
             <img
