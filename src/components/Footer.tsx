@@ -1,7 +1,7 @@
-export const Foter = () => {
+export const Footer = () => {
   return (
     <footer className="w-full  bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] p-5 ">
-      <div className="w-full flex items-center justify-center mt-10 gap-5">
+      <div className="w-full flex items-center justify-center mt-10 gap-2">
         <div>
           <img className="w-[50px]" src="/seree_footer.png" alt="" />
         </div>

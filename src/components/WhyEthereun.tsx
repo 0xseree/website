@@ -17,8 +17,8 @@ export const WhyEthereun = () => {
             Seree's API is compatible with the ISO20022 standard. We settle
             payments with stablecoins. This lowers the cost of foreign exchange,
             decreases settlement time, and removes the need to hold foreign
-            currency to transact in it. Our mission is to make international
-            payments easy, cheap, and accessible.
+            currency to transact in it. Our mission is to maximize the efficiency
+            of the global financial system.
           </p>
         </div>
 
