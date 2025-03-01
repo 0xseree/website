@@ -1,5 +1,6 @@
 import { BeforeFooter } from "../components/BeforeFooter";
 import { FAQSection } from "../components/FAQSection";
+import { Foter } from "../components/Foter";
 import { Header } from "../components/Header";
 import { Hero } from "../components/Hero";
 import { MeetTheTeam } from "../components/MeetTheTeam";
@@ -13,7 +14,8 @@ export const Landing = () => {
       <WhyEthereun />
       <MeetTheTeam />
       <FAQSection />
-      <BeforeFooter />  
+      <BeforeFooter />
+      <Foter />
 
     </section>
   )

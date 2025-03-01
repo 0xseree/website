@@ -22,7 +22,7 @@ export const WhyEthereun = () => {
           </p>
         </div>
 
-        <div className="md:w-[50%] w-full md:mt-0 mt-5">
+        <div className="md:w-fit w-full md:mt-0 mt-5">
           <Button />
         </div>
       </div>
