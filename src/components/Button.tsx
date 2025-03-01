@@ -2,7 +2,7 @@ import { MdArrowOutward } from "react-icons/md";
 
 export const Button = () => {
   return (
-    <a className="" href="">
+    <a className="" href="mailto:team@seree.xyz">
       <div className="border-2 bg-[#D4F7E3] border-[#1AA16C] rounded-full flex items-center justify-between w-fit">
         <div className="px-3  rounded-full">
           <h3 className="text-[#1AA16C] font-medium">Get In Touch</h3>

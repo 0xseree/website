@@ -2,7 +2,7 @@ import FAQs from "./FAQs";
 
 export const FAQSection = () => {
   return (
-    <section className="w-full p-5 flex flex-col items-center justify-center mt-20">
+    <section id="faq" className="w-full p-5 flex flex-col items-center justify-center mt-20">
       <div className="text-center">
         <h3 className="text-2xl font-medium text-[#182230]">
           Frequently asked questions

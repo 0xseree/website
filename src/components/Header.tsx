@@ -17,7 +17,7 @@ export const Header = () => {
         <div className="items-center gap-4 font-medium text-[#667085] hidden md:flex">
           <a href="#why-ethereum">About</a>
           <a href="#team">Our Team</a>
-          <a href="">FAQs</a>
+          <a href="#faq">FAQs</a>
         </div>
 
         <div>
