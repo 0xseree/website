@@ -1,5 +1,3 @@
-import { Button } from "./Button";
-
 export const Header = () => {
   return (
     <header className="w-full flex items-center justify-center">
