@@ -1,5 +1,3 @@
-import { Button } from "./Button";
-
 export const WhyEthereun = () => {
   return (
     <section
@@ -23,7 +21,6 @@ export const WhyEthereun = () => {
         </div>
 
         <div className="md:w-fit w-full md:mt-0 mt-5">
-          <Button />
         </div>
       </div>
 

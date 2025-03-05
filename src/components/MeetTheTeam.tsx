@@ -152,16 +152,16 @@ export const MeetTheTeam = () => {
               <p className="mt-3 text-white">
                 Principal Advisor,
                 <br />
-               Bitcoin Mining and Business
+                Bitcoin Mining and Business
               </p>
             </div>
           </div>
 
           <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
-            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
+            <div className="w-full md:h-[200px] h-[400px] rounded-xl bg-gray-200">
               <img
                 src="/advisor_4.jpg"
-                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl object-cover"
+                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl object-contain"
                 alt=""
               />
             </div>
@@ -173,7 +173,7 @@ export const MeetTheTeam = () => {
               <p className="mt-3 text-white">
                 Principal Advisor,
                 <br />
-                Finance Markets & Crypto
+                Finance Markets
               </p>
             </div>
           </div>

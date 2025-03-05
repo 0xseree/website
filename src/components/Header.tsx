@@ -20,9 +20,6 @@ export const Header = () => {
           <a href="#faq">FAQs</a>
         </div>
 
-        <div>
-          <Button />
-        </div>
       </div>
     </header>
   );
