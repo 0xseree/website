@@ -27,7 +27,7 @@ export const WhyEthereun = () => {
         </div>
       </div>
 
-      <div className="w-[90%] flex items-center justify-between mt-5 flex-col md:flex-row gap-5">
+      <div className="w-[90%] flex items-center justify-center mt-5 flex-col md:flex-row gap-5">
         <div className="w-[400px] h-[530px] rounded-xl">
           <div className="w-full h-[300px] rounded-xl">
             <img

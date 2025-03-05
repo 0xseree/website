@@ -94,7 +94,7 @@ export const MeetTheTeam = () => {
                 Samuel Gebrehiwet
               </h3>
 
-              <p className="mt-3 text-white">Chief Operations Officer</p>
+              <p className="mt-3 text-white">Chief Operating Officer</p>
             </div>
           </div>
         </div>
@@ -152,7 +152,7 @@ export const MeetTheTeam = () => {
               <p className="mt-3 text-white">
                 Principal Advisor,
                 <br />
-                Mining and Cloud Operations
+               Bitcoin Mining and Business
               </p>
             </div>
           </div>
@@ -173,7 +173,7 @@ export const MeetTheTeam = () => {
               <p className="mt-3 text-white">
                 Principal Advisor,
                 <br />
-                Finance Markets
+                Finance Markets & Crypto
               </p>
             </div>
           </div>
