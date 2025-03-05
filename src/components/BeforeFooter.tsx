@@ -16,7 +16,7 @@ export const BeforeFooter = () => {
           <div className="w-full mt-5">
             <h3 className="text-2xl font-medium text-[#182230]">Location</h3>
 
-            <p className="text-md text-[#98A2B3] mt-2">Addis Ababa, Ethiopia</p>
+            <p className="text-md text-[#98A2B3] mt-2">United States & Africa</p>
           </div>
 
           <div className="w-full mt-5">
