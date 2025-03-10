@@ -2,7 +2,7 @@ import { useState } from "react";
 import { MinusCircle, PlusCircle } from "lucide-react";
 import { motion } from "framer-motion";
 
-const FAQItem = ({ question, answer }: { question: any; answer: any }) => {
+const FAQItem = ({ question, answer }: { question: string; answer: string }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
