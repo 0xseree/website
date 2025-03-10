@@ -56,13 +56,14 @@ export const WhyEthereun = () => {
             />
           </div>
           <div className="h-[230px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
-            <h3 className="text-white text-xl font-medium">Why Ethiopia?</h3>
+            <h3 className="text-white text-xl font-medium">Why Now?</h3>
 
             <p className="mt-3 text-white">
-              Ethiopia is now #4 in Bitcoin hash rate. We forsee a
-              crypto-friendly regulatory environment here. Also, Ethiopia just
-              allowed international banks to open shop, meaning SWIFT standards
-              are of utmost importance at this time.
+              We're at a time where the traditional fincancial system
+              is accepting blockchain technology. Our bet is that over
+              the next 5 years, the financial system will be run on
+              public blockchains. We're positioning ourselves to fulfill
+              this demand in a safe and affordable way.
             </p>
           </div>
         </div>
@@ -77,13 +78,12 @@ export const WhyEthereun = () => {
           </div>
           <div className="h-[230px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
             <h3 className="text-white text-xl font-medium">
-              Early Mover Advantage in Ethereum Validation
+              Use of Public Blockchains
             </h3>
-
             <p className="mt-3 text-white">
-              Seree is positioned to become the leading Ethereum validator in
-              Ethiopia, operating one of the first large-scale restaking
-              operations in the region.
+              Seree has built its API and stablecoin technology on the Ethereum blockchain. We use specialized cryptography to 
+              keep our clients' data private while opening access to 
+              the world of Decentralized Finance.
             </p>
           </div>
         </div>

@@ -60,7 +60,7 @@ const FAQs = () => {
     {
       question: "What is a Validator?",
       answer:
-        "A validator is a node on a blockchain network that verifies transactions and creates new blocks. In Proof of Stake systems, validators are chosen based on their stake, while in other systems, they may be chosen based on different criteria. Seree runs Ethereum PoS validators in Ethiopia.",
+        "A validator is a node on a blockchain network that verifies transactions and creates new blocks. In Proof of Stake systems, validators are chosen based on their stake, while in other systems, they may be chosen based on different criteria. Seree runs Ethereum PoS validators.",
     },
     {
       question: "What is Restaking?",
