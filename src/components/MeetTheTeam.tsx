@@ -173,7 +173,7 @@ export const MeetTheTeam = () => {
               <p className="mt-3 text-white">
                 Principal Advisor,
                 <br />
-                Finance Markets
+                Financial Markets & Crypto
               </p>
             </div>
           </div>
