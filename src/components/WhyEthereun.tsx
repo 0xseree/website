@@ -81,9 +81,7 @@ export const WhyEthereun = () => {
               Use of Public Blockchains
             </h3>
             <p className="mt-3 text-white">
-              Seree has built its API and stablecoin technology on the Ethereum blockchain. We use specialized cryptography to 
-              keep our clients' data private while opening access to 
-              the world of Decentralized Finance.
+              Seree is an Ethereum Validator. We have built our API and stablecoin technology on the Ethereum blockchain. We use specialized cryptography to keep our clients' data private while opening access to the world of DeFi.
             </p>
           </div>
         </div>
