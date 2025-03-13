@@ -170,11 +170,11 @@ export const MeetTheTeam = () => {
                 Thomas Alemayehu
               </h3>
 
-              <p className="mt-3 text-white">
+                <p className="mt-3 text-white text-sm">
                 Principal Advisor,
                 <br />
                 Financial Markets & Crypto
-              </p>
+                </p>
             </div>
           </div>
         </div>
