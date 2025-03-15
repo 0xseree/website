@@ -59,7 +59,7 @@ export const WhyEthereun = () => {
             <h3 className="text-white text-xl font-medium">Why Now?</h3>
 
             <p className="mt-3 text-white">
-              We're at a time where the traditional fincancial system
+              We're at a time where the traditional financial system
               is accepting blockchain technology. Our bet is that over
               the next 5 years, the financial system will be run on
               public blockchains. We're positioning ourselves to fulfill
