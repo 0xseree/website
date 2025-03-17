@@ -80,23 +80,6 @@ export const MeetTheTeam = () => {
               <p className="mt-3 text-white">Finance & Treasury</p>
             </div>
           </div>
-
-          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
-            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
-              <img
-                src="/sammy.jpg"
-                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl object-cover"
-                alt=""
-              />
-            </div>
-            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
-              <h3 className="text-white text-xl font-medium">
-                Samuel Gebrehiwet
-              </h3>
-
-              <p className="mt-3 text-white">Chief Operating Officer</p>
-            </div>
-          </div>
         </div>
 
         <div className="mt-10 w-full flex gap-5 items-center justify-center flex-col md:flex-row">
