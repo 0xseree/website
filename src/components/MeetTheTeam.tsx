@@ -95,9 +95,9 @@ export const MeetTheTeam = () => {
               <h3 className="text-white text-xl font-medium">Paul Reynolds</h3>
 
               <p className="mt-3 text-white">
-                Senior Advisor,
+                Advisor,
                 <br />
-                Strategy and Governance
+                Banking & Financial Services
               </p>
             </div>
           </div>
@@ -114,50 +114,10 @@ export const MeetTheTeam = () => {
               <h3 className="text-white text-xl font-medium">Ross Emory</h3>
 
               <p className="mt-3 text-white">
-                Principal Advisor,
+                Advisor,
                 <br />
-                Finance and Management
+                Capital Markets
               </p>
-            </div>
-          </div>
-
-          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
-            <div className="w-full md:h-[200px] h-[400px] rounded-xl">
-              <img
-                src="/advisor_3.jpg"
-                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl object-cover"
-                alt=""
-              />
-            </div>
-            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
-              <h3 className="text-white text-xl font-medium">Kal Kassa</h3>
-
-              <p className="mt-3 text-white">
-                Principal Advisor,
-                <br />
-                Bitcoin Mining and Business
-              </p>
-            </div>
-          </div>
-
-          <div className="md:w-[200px] w-full md:h-[350px] h-[550px] rounded-xl">
-            <div className="w-full md:h-[200px] h-[400px] rounded-xl bg-gray-200">
-              <img
-                src="/advisor_4.jpg"
-                className="w-full max-w-full h-full rounded-tl-xl rounded-tr-xl object-contain"
-                alt=""
-              />
-            </div>
-            <div className="h-[150px] bg-gradient-to-b from-[#77DEAF] to-[#1AA16C] rounded-bl-xl rounded-br-xl p-4">
-              <h3 className="text-white text-xl font-medium">
-                Thomas Alemayehu
-              </h3>
-
-                <p className="mt-3 text-white text-sm">
-                Principal Advisor,
-                <br />
-                Financial Markets & Crypto
-                </p>
             </div>
           </div>
         </div>
